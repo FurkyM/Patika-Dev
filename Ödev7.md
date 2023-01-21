@@ -8,7 +8,11 @@
 ```
 
 ```
-## Customer tablosunda bulunan store_id değerlerine karşılık gelen müşteri sayılarını nelerdir? 4. city tablosunda bulunan şehir verilerini country_id sütununa göre gruplandırdıktan sonra en fazla şehir sayısı barındıran country_id bilgisini ve şehir sayısını paylaşınız.
+## Customer tablosunda bulunan store_id değerlerine karşılık gelen müşteri sayılarını nelerdir? 
+```
+
+```
+## City tablosunda bulunan şehir verilerini country_id sütununa göre gruplandırdıktan sonra en fazla şehir sayısı barındıran country_id bilgisini ve şehir sayısını paylaşınız.
 ```
 
 ```
